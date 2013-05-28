@@ -5,7 +5,6 @@
 // Package frame implements a 2-D frame composed of cells printable to a
 // terminal. This package is dependant upon the console package, but is not
 // tied to any particular implementation of it.
-
 package frame
 
 import (

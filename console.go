@@ -7,7 +7,6 @@
 // may be implemented to work with other terminals.
 //
 // TODO: Provide a means to accept Unicode input.
-
 package console
 
 import (
